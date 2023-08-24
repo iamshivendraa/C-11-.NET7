@@ -12,4 +12,8 @@
     <Folder Include="C#11-.NET7\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PacktLibraryModern_\PacktLibraryModern_.csproj" />
+  </ItemGroup>
+
 </Project>
